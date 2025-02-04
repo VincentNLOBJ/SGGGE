@@ -22,7 +22,8 @@ Dreamcast's SEGAGAGA Editor!
  
 ![image](https://github.com/user-attachments/assets/fe6cee4f-3ba6-41eb-a9db-ee2698421093)
 
-
+# ATTENTION!
+- When you rebuild, the modified .GDI will be placed in `iso` folder!
 
 # ♥ Support ♥
 - https://ko-fi.com/vincentnl
