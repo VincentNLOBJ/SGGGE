@@ -18,6 +18,7 @@ Dreamcast's SEGAGAGA Editor!
 - `Change Image` (use same image mode / size)
 - `Save button`
 - Once done editing, go back to main window and click `Rebuild GDI`
+ 
 ![image](https://github.com/user-attachments/assets/fe6cee4f-3ba6-41eb-a9db-ee2698421093)
 
 
@@ -27,5 +28,6 @@ Dreamcast's SEGAGAGA Editor!
 - https://ko-fi.com/patreon.com/vincentnl
 
 # Credits:
-`buildgdi.exe` by Sappharad: https://github.com/Sappharad/GDIbuilder/releases/tag/v2.1.1
-`sggg_lz.exe` by megavolt85: 
+- `sggg_lz.exe` by megavolt85
+- Compression algorithm by https://github.com/infval
+- `buildgdi.exe` by Sappharad: https://github.com/Sappharad/GDIbuilder/releases/tag/v2.1.1
