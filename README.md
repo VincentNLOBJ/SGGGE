@@ -7,8 +7,11 @@ Dreamcast's SEGAGAGA Editor!
 # How-To-Use
 - Get the latest [release](https://github.com/VincentNLOBJ/SGGGE/releases)!
 - Upack your own legally owned backup:
-`SGGG - Segagaga v1.022 (2001)(Sega)(JP)[!].gdi` or
+
+`SGGG - Segagaga v1.022 (2001)(Sega)(JP)[!].gdi`
+or
 `SGGG - Segagaga v2.000 (2001)(Sega)(JP)[!].gdi`,
+
 with data Tracks, to any folder of your choice.
 - Unpack `SGGGE_v1.7z` content to a dedicate folder.
 - Run `SGGGE.exe`
